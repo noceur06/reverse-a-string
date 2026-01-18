@@ -16,5 +16,5 @@ console.log(reverseAstring("ezzbyte"));
 //     }
 //     return reveresed
 // }
-
+//printing the output
 // console.log(reverseAstring("ezzbyte"));
